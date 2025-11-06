@@ -6,12 +6,9 @@
 </div>
 
 <!-- 언어 및 프로그램 -->
-<img src="https://img.shields.io/badge/Synopsys-5C2885?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Cadence-FFFFFF?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Synopsys-5C2885?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Cadence-FFFFFF?style=for-the-badge&logoColor=white">
 
-<img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
 <br>
 <!-- 스탯 -->
