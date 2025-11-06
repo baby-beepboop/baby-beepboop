@@ -1,3 +1,5 @@
+<img width="3464" height="3464" alt="Image" src="https://github.com/user-attachments/assets/7046147a-66df-4101-b85a-2d55c10a5516" />
+
 ## Hi there 👋
 
 <!--
